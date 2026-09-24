@@ -1,0 +1,13 @@
+# Bỏ qua notebook bản nháp cũ và file csv kết quả trùng lặp
+lab1_v2.ipynb
+retrieval_evaluation_results.csv
+
+# Bỏ qua bộ nhớ đệm và checkpoint của Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db

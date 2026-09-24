@@ -1,0 +1,34 @@
+# ==========================================
+# Cấu hình Gitignore: Chỉ theo dõi lab1 và tài liệu repo
+# ==========================================
+
+# 1. Mặc định bỏ qua toàn bộ file và thư mục ở root
+/*
+
+# 2. Cho phép các file cấu hình và tài liệu chính ở root
+!/.gitignore
+!/README.md
+
+# 3. Cho phép toàn bộ thư mục lab1
+!/lab1/
+!/lab1/**
+
+# ==========================================
+# Bỏ qua các file tạm, bộ nhớ đệm và dữ liệu nặng
+# ==========================================
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Dữ liệu lớn và tệp nén (phòng trường hợp đặt trong lab1)
+*.json
+*.json.gz
+*.gz
+*.rar
+*.zip
+*.tar
+*.parquet
+

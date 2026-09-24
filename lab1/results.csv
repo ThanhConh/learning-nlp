@@ -1,0 +1,32 @@
+Query_ID,Query,P@5,R@5,RR,Rank,Doc_ID,Similarity,Is_Relevant,Relevant_Docs,Preview
+1,medical image classification,0.6000,0.7500,1.0000,1,190,0.307839,True,190; 267; 515; 793,"this title is a comprehensive account of the key aspects of medical leadership. a highly accessible, text book-style res"
+1,medical image classification,0.6000,0.7500,1.0000,2,207,0.290287,False,190; 267; 515; 793,"rent the centre. celebrations, parties or just for fun. in order to provide a flavour of the grenville house experience "
+1,medical image classification,0.6000,0.7500,1.0000,3,267,0.191922,True,190; 267; 515; 793,image title: pottery barn counter stools in decker leather seat barstool inside bar plans 8. filename: pottery-barn-coun
+1,medical image classification,0.6000,0.7500,1.0000,4,515,0.188356,True,190; 267; 515; 793,"wind river opens in theaters august 4, 2017, courtesy of the weinstein company. top image photographed by sandro baebler"
+1,medical image classification,0.6000,0.7500,1.0000,5,871,0.169593,False,190; 267; 515; 793,"so you want a college degree. in the usa, about the only acceptable answer is “chaaa, to get a bitchin’ new camaro, homb"
+2,transformer language model,0.8000,1.0000,1.0000,1,701,0.366049,True,350; 582; 700; 701,program in teaching french as a foreign language was established in 1985 under the department of foreign education. 2 fu
+2,transformer language model,0.8000,1.0000,1.0000,2,700,0.244997,True,350; 582; 700; 701,"> > rather than distinct language constructs. > no, because the two ""use cases"" give the language different semantics. t"
+2,transformer language model,0.8000,1.0000,1.0000,3,350,0.211364,True,350; 582; 700; 701,we warmly welcome you to the department of languages and translation (dlt). our department is a part of the college of a
+2,transformer language model,0.8000,1.0000,1.0000,4,582,0.162866,True,350; 582; 700; 701,introducing the multi-language feature of the new iscripts eswap barter network software and iscripts supportdesk help d
+2,transformer language model,0.8000,1.0000,1.0000,5,914,0.149923,False,350; 582; 700; 701,here are a few major points that make sqlc a sound long-term investment. a rapidly growing market: sqlc serves one of am
+3,deep learning healthcare,0.6000,0.7500,1.0000,1,838,0.196929,True,196; 454; 575; 838,"un's sustainable development goal 3, which promotes health and well-being for all, helps balance healthcare provision an"
+3,deep learning healthcare,0.6000,0.7500,1.0000,2,575,0.160243,True,196; 454; 575; 838,"the physician assistant (pas) field has been named one of the “best jobs in america” according to cnn money, glassdoor a"
+3,deep learning healthcare,0.6000,0.7500,1.0000,3,208,0.144472,False,196; 454; 575; 838,dayton wordcamp | the jamestown comet. some people are of the mind that there is a certain age when learning something n
+3,deep learning healthcare,0.6000,0.7500,1.0000,4,820,0.101724,False,196; 454; 575; 838,i love crafting and creating communities! i love the crafting community because of the focus on sharing and learning as 
+3,deep learning healthcare,0.6000,0.7500,1.0000,5,196,0.101549,True,196; 454; 575; 838,"a good honours degree in chemistry, pharmacy, pharmaceutical science, pharmacology, biological science or biomedical sci"
+4,natural language processing,0.8000,1.0000,1.0000,1,701,0.286270,True,350; 582; 700; 701,program in teaching french as a foreign language was established in 1985 under the department of foreign education. 2 fu
+4,natural language processing,0.8000,1.0000,1.0000,2,700,0.191600,True,350; 582; 700; 701,"> > rather than distinct language constructs. > no, because the two ""use cases"" give the language different semantics. t"
+4,natural language processing,0.8000,1.0000,1.0000,3,350,0.165297,True,350; 582; 700; 701,we warmly welcome you to the department of languages and translation (dlt). our department is a part of the college of a
+4,natural language processing,0.8000,1.0000,1.0000,4,565,0.158007,False,350; 582; 700; 701,this is the tenth maintenance release of the 1.4.x series and brings over thirty bug fixes and improvements. * when the 
+4,natural language processing,0.8000,1.0000,1.0000,5,582,0.127370,True,350; 582; 700; 701,introducing the multi-language feature of the new iscripts eswap barter network software and iscripts supportdesk help d
+5,database sql query,0.6000,0.7500,1.0000,1,408,0.226897,True,408; 757; 768; 914,"+ * make things happen when buttons are pressed and forms submitted. +                ""ext-pdo_sqlsrv"": ""for mssql datab"
+5,database sql query,0.6000,0.7500,1.0000,2,686,0.210041,False,408; 757; 768; 914,today's crossword puzzle clue is a cryptic one: type of party – ring mobile phone to get through. we will try to find th
+5,database sql query,0.6000,0.7500,1.0000,3,757,0.146647,True,408; 757; 768; 914,the data section of the jmp website includes interactive data visualisation tools which enable users to explore the jmp 
+5,database sql query,0.6000,0.7500,1.0000,4,287,0.133590,False,408; 757; 768; 914,"pcl alverno november 2017 test bulletin - important uhc information! effective today, unitedhealthcare will require any "
+5,database sql query,0.6000,0.7500,1.0000,5,768,0.111850,True,408; 757; 768; 914,where is the mail stored in the filesystem? i have zentyal 3 with zarafa configured as the mail gateway. where in the fi
+6,climate change global warming,0.4000,1.0000,1.0000,1,896,0.509262,True,80; 896,globalization has offered appreciable controversial impact. the idea is said to the more basic phenomenon of climate cha
+6,climate change global warming,0.4000,1.0000,1.0000,2,291,0.148224,False,80; 896,is an election recount a good idea? the green party’s jill stein is pushing for election recounts in three battleground 
+6,climate change global warming,0.4000,1.0000,1.0000,3,80,0.116954,True,80; 896,"roser, m. （2017）。 the short history of global living conditions and why it matters that we know it. published online at "
+6,climate change global warming,0.4000,1.0000,1.0000,4,110,0.099759,False,80; 896,both the federation of states and the federal super-state describe the same zero-sum game from different angles. either 
+6,climate change global warming,0.4000,1.0000,1.0000,5,757,0.099657,False,80; 896,the data section of the jmp website includes interactive data visualisation tools which enable users to explore the jmp 
+MEAN,OVERALL BENCHMARK AVERAGE,0.6333,0.8750,1.0000,,,,,,Mean evaluation metrics across all benchmark queries

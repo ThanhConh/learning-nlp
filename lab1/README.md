@@ -16,6 +16,7 @@ lab1/
 ├── experiments.ipynb       # Notebook chính: toàn bộ thực nghiệm từ Part D đến Part J
 ├── implementation.py       # Module chứa các hàm tính toán cốt lõi (TF, IDF, TF-IDF, Cosine Similarity)
 ├── prediction.md           # Báo cáo dự đoán trước khi thực nghiệm (Part C — Predictions)
+├── reflection.md           # Báo cáo phản tư sau thực nghiệm (Section 16 — Reflection)
 ├── results.csv             # Bảng kết quả truy vấn và đo lường định lượng (P@5, R@5, MRR)
 ├── .gitignore              # Cấu hình bỏ qua file nháp (lab1_v2.ipynb), file cũ và bộ nhớ đệm
 └── README.md               # Tài liệu hướng dẫn và báo cáo chi tiết bài thực hành Lab 1

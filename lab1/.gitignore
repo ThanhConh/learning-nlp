@@ -1,6 +1,8 @@
 # Bỏ qua notebook bản nháp cũ và file csv kết quả trùng lặp
 lab1_v2.ipynb
 retrieval_evaluation_results.csv
+reflection.md
+prediction.md
 
 # Bỏ qua bộ nhớ đệm và checkpoint của Jupyter/Python
 .ipynb_checkpoints/

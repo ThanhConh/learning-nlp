@@ -1,0 +1,6 @@
+Rank,Dim 50 Pair,Dim 50 Score,Dim 100 Pair,Dim 100 Score,Dim 300 Pair,Dim 300 Score
+1,doctor - physician,0.841808432963989,king - queen,0.7754111701628411,king - queen,0.6505745384065275
+2,king - queen,0.8120568250725686,doctor - physician,0.7551446726267516,doctor - physician,0.5542142350932383
+3,cat - dog,0.7386644892439297,cat - dog,0.6266675218608748,cat - dog,0.4804159959535884
+4,car - automobile,0.7329757705516056,car - automobile,0.6246224777721125,car - automobile,0.4616538311061489
+5,computer - banana,-0.23359629399538145,computer - banana,-0.16998167009173973,computer - banana,-0.048347882667127556

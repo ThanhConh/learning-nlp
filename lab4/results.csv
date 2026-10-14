@@ -1,0 +1,3 @@
+Features,Vocabulary,Accuracy,Precision,Recall,F1,Training Time (s)
+Unigram,5000,0.858415,0.858503,0.858415,0.858412,15.716297
+Uni + Bigram,10000,0.868839,0.868905,0.868839,0.868838,36.992895

@@ -1,0 +1,6 @@
+## Domain Transfer Performance (Amazon → IMDb)
+Metric,Amazon,IMDb,Performance_Drop,Relative_Drop_Pct
+Accuracy,0.8604,0.7330,-0.1274,-17.37%
+Precision,0.8425,0.6860,-0.1566,-22.82%
+Recall,0.8928,0.8539,-0.0390,-4.56%
+F1,0.8669,0.7608,-0.1062,-13.96%

@@ -1,0 +1,5 @@
+Model,Entity,TP,FP,FN,Precision,Recall,F1
+Pretrained Transformer,PER,1551,53,66,0.966958,0.959184,0.963055
+Pretrained Transformer,LOC,1551,124,117,0.925970,0.929856,0.927909
+Pretrained Transformer,MISC,577,182,125,0.760211,0.821937,0.789870
+Pretrained Transformer,ORG,1501,224,160,0.870145,0.903672,0.886592
